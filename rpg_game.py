@@ -1,3 +1,8 @@
+#VERY ROUGH BETA, IDEA ONLY, DON'T KNOW IF I WILL EVER UPDATE THIS
+
+
+
+
 import random
 import os
 import time
